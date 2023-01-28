@@ -1,6 +1,6 @@
-# YOLACT-TensorRT in C++
+# PPOCRv3-TensorRT in C++
 
-our repo base on pytorch version of yolact [https://github.com/dbolya/yolact.git](https://github.com/dbolya/yolact.git)
+our repo base on version of ppocrv3 [https://github.com/PaddlePaddle/PaddleOCR.git](https://github.com/PaddlePaddle/PaddleOCR.git)
 
 ## Step 0: Convert baidu paddlepaddle model to onnx model and generate dynamic TensoRT engine
 
